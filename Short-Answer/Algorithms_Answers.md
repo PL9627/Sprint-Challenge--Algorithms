@@ -5,10 +5,10 @@
 a)  O(n)
 
 
-b)
+b)  
 
 
-c)
+c)  O(n)
 
 ## Exercise II
 
